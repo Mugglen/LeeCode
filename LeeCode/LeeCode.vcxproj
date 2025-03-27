@@ -158,6 +158,7 @@
     <ClCompile Include="74_搜索二维数组.cpp" />
     <ClCompile Include="94_二叉树的中序遍历.cpp" />
     <ClCompile Include="94_二叉树的先序遍历.cpp" />
+    <ClCompile Include="mySqlTest.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
