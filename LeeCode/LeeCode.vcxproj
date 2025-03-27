@@ -152,6 +152,7 @@
     <ClCompile Include="39_组合综合.cpp" />
     <ClCompile Include="46_全排列.cpp" />
     <ClCompile Include="49_字母异位词.cpp" />
+    <ClCompile Include="543_二叉树的直径.cpp" />
     <ClCompile Include="560_和为K的子数组.cpp" />
     <ClCompile Include="704_二分查找.cpp" />
     <ClCompile Include="74_搜索二维数组.cpp" />

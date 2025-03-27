@@ -22,7 +22,7 @@ public:
 
         // 不对称的三种情况
         // 首先排除双空节点，单空节点
-        if (left == nullptr && right == nullptr) return true;  // 修改为 true，两个节点都为空，认为对称
+        if (left == nullptr && right == nullptr) return true;  // 修改为 true，两个节点都为空，认为对称（注意这里，之前写错了）
         if (left == nullptr || right == nullptr) return false; // 只要一个为空，返回 false
 
         // 再考虑root左右子树数值不同
