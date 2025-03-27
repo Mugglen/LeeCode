@@ -128,6 +128,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="101_对称二叉树.cpp" />
     <ClCompile Include="104_二叉树的最大深度.cpp" />
     <ClCompile Include="128_最长连续序列.cpp" />
     <ClCompile Include="141_环形链表.cpp" />
