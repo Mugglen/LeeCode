@@ -80,6 +80,9 @@ public:
 	}
 };
 
+//#define DEBUG
+#ifdef DEBUG
+
 int main() {
 	Solution solution;
 	string digits;
@@ -95,3 +98,8 @@ int main() {
 
 	return 0;
 }
+
+#endif // DEBUG
+
+
+
