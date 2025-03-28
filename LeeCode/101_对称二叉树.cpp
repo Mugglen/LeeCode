@@ -85,7 +85,7 @@ public:
     }
 };
 
-#define DEBUG
+//#define DEBUG
 #ifdef DEBUG
 
 int main() {

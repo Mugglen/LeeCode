@@ -1,8 +1,11 @@
-#include <mysql_driver.h>
-#include <mysql_connection.h>
-#include <cppconn/statement.h>
+//#include <mysql_driver.h>
+//#include <mysql_connection.h>
+//#include <cppconn/statement.h>
+//
+//using namespace sql;
 
-using namespace sql;
+//#define DEBUG
+#ifdef DEBUG
 
 int main() {
     try {
@@ -36,3 +39,6 @@ int main() {
     }
     return 0;
 }
+
+#endif // DEBUG
+

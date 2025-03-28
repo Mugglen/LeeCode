@@ -108,5 +108,11 @@
     <ClCompile Include="mySqlTest.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="121_买卖股票的最佳时机.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2_两数相加.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
