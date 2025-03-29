@@ -21,7 +21,7 @@ public:
 	ListNode* addTwoNumbers(ListNode* l1, ListNode* l2) {
 		
 		// 先把表头存个备份节点,表头指针存在这个节点里
-		ListNode* head = new ListNode(0);
+		ListNode* head = new ListNode(-1);
 		ListNode* curr = head;
 		int carry = 0;
 
@@ -57,7 +57,9 @@ public:
 		string token1;
 		ListNode* curr1 = listHead1;
 		while (getline(ss1, token1, ',')) {
-			listHead1->next = new ListNode(stoi(token1));
+			//!!!! 注意原来的错误写法，都已经声明curr了但是没用着
+			//listHead1->next = new ListNode(stoi(token1)); 
+			curr1->next = new ListNode(stoi(token1));
 			curr1 = curr1->next;
 		}
 
@@ -68,14 +70,16 @@ public:
 		string token2;
 		ListNode* curr2 = listHead2;
 		while (getline(ss2, token2, ',')) {
-			listHead2->next = new ListNode(stoi(token2));
+			// ！！！！！这里也是同样的错误
+			//listHead2->next = new ListNode(stoi(token2));
+			curr2->next = new ListNode(stoi(token2));
 			curr2 = curr2->next;
 		}
 	}
 };
 
 
-#define DEBUG
+//#define DEBUG
 #ifdef DEBUG
 
 int main() {
@@ -87,14 +91,19 @@ int main() {
 	Solution solution;
 	solution.buildList(head1, head2);
 
-	ListNode* resultHead =  solution.addTwoNumbers(head1, head2);
+	// ！！！！！！特别注意，传入的是head1->next，这里的头只是用来保存链表头节点指针的，不参与运算
+	ListNode* resultHead =  solution.addTwoNumbers(head1->next, head2->next);
 
+	// ！！！注意输出的循环条件，while(resultHead->next != nullptr的话最后一个节点就得单独输出了)
 	cout << "两数和结果为：" << endl;
-	while (resultHead -> next != nullptr) {
-		cout << resultHead->val << ' ' << endl;
-	
+	while (resultHead != nullptr) {
+
+		// 注意函数中返回的就是链表头了，不是包含链表头指针的占位链表节点
+		cout << resultHead->val << ' ';
+		resultHead = resultHead->next;
 	}
 
+	return 0;
 }
 
 

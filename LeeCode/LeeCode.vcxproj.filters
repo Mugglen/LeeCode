@@ -114,5 +114,11 @@
     <ClCompile Include="2_两数相加.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="19_删除链表的倒数第n个节点.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="24_两两交换链表中的节点.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

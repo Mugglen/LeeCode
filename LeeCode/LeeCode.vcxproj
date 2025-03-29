@@ -140,12 +140,14 @@
     <ClCompile Include="160_相交链表.cpp" />
     <ClCompile Include="160_练习.cpp" />
     <ClCompile Include="17_电话号码的字母组合.cpp" />
+    <ClCompile Include="19_删除链表的倒数第n个节点.cpp" />
     <ClCompile Include="1_两数之和.cpp" />
     <ClCompile Include="206_反转列表.cpp" />
     <ClCompile Include="20_有效的括号.cpp" />
     <ClCompile Include="21_合并两个有序链表.cpp" />
     <ClCompile Include="226_翻转二叉树.cpp" />
     <ClCompile Include="234_回文链表.cpp" />
+    <ClCompile Include="24_两两交换链表中的节点.cpp" />
     <ClCompile Include="283_移动零.cpp" />
     <ClCompile Include="2_两数相加.cpp" />
     <ClCompile Include="33_搜索旋转排序数组.cpp" />
