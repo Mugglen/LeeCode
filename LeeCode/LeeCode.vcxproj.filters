@@ -120,5 +120,26 @@
     <ClCompile Include="24_两两交换链表中的节点.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="138_随机链表的复制.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="148_排序链表（有问题）.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="146_LRU缓存（没写）.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="88_合并两个有序数组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="27_移除元素.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="53_最大子数组和.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="56_合并区间.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

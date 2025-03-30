@@ -132,8 +132,11 @@
     <ClCompile Include="104_二叉树的最大深度.cpp" />
     <ClCompile Include="121_买卖股票的最佳时机.cpp" />
     <ClCompile Include="128_最长连续序列.cpp" />
+    <ClCompile Include="138_随机链表的复制.cpp" />
     <ClCompile Include="141_环形链表.cpp" />
     <ClCompile Include="142_环形链表2.cpp" />
+    <ClCompile Include="146_LRU缓存（没写）.cpp" />
+    <ClCompile Include="148_排序链表（有问题）.cpp" />
     <ClCompile Include="153_寻找旋转排序数组中的最小值.cpp" />
     <ClCompile Include="155_最小栈.cpp" />
     <ClCompile Include="15_三数之和.cpp" />
@@ -148,6 +151,7 @@
     <ClCompile Include="226_翻转二叉树.cpp" />
     <ClCompile Include="234_回文链表.cpp" />
     <ClCompile Include="24_两两交换链表中的节点.cpp" />
+    <ClCompile Include="27_移除元素.cpp" />
     <ClCompile Include="283_移动零.cpp" />
     <ClCompile Include="2_两数相加.cpp" />
     <ClCompile Include="33_搜索旋转排序数组.cpp" />
@@ -156,10 +160,13 @@
     <ClCompile Include="39_组合综合.cpp" />
     <ClCompile Include="46_全排列.cpp" />
     <ClCompile Include="49_字母异位词.cpp" />
+    <ClCompile Include="53_最大子数组和.cpp" />
     <ClCompile Include="543_二叉树的直径.cpp" />
     <ClCompile Include="560_和为K的子数组.cpp" />
+    <ClCompile Include="56_合并区间.cpp" />
     <ClCompile Include="704_二分查找.cpp" />
     <ClCompile Include="74_搜索二维数组.cpp" />
+    <ClCompile Include="88_合并两个有序数组.cpp" />
     <ClCompile Include="94_二叉树的中序遍历.cpp" />
     <ClCompile Include="94_二叉树的先序遍历.cpp" />
     <ClCompile Include="mySqlTest.cpp" />
