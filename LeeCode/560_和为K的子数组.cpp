@@ -10,6 +10,8 @@ using namespace std;
 
 
 // 方法二：前缀和 + 哈希表优化
+// 核心思想，前缀和的差就是字串和，直接检查当前pre-k
+
 class Solution {
 public:
     int subarraySum(vector<int>& nums, int k) {

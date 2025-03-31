@@ -17,11 +17,14 @@ struct TreeNode {
 
 class Solution {
 
+private:
 	int ans;
 	int depth(TreeNode* root) {
 		if (root == nullptr) {
 			return 0;
 		}
+
+		// 注意递归的返回值是左右子树的最大深度，但是当前节点这棵树的直径是用左右子树最大深度算出来的
 		int depthL = depth(root->left); // 左儿子为根的子树深度
 		int depthR = depth(root->right); // 右儿子为根的子树深度
 		ans = max(ans, depthL + depthR + 1);
