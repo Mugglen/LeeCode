@@ -36,7 +36,7 @@
     <ClCompile Include="160_相交链表.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="160_练习.cpp">
+    <ClCompile Include="160_练习（双指针法）.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="206_反转列表.cpp">
@@ -123,7 +123,7 @@
     <ClCompile Include="138_随机链表的复制.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="148_排序链表（有问题）.cpp">
+    <ClCompile Include="148_排序链表.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="146_LRU缓存（没写）.cpp">

@@ -82,7 +82,7 @@ public:
 //来源：力扣（LeetCode）
 //著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
 
-// 归并排序（分治）需要学习，还没搞懂
+// 归并排序（分治）
 class Solution {
 	// 876. 链表的中间结点（快慢指针）
 	ListNode* middleNode(ListNode* head) {
@@ -94,14 +94,24 @@ class Solution {
 			slow = slow->next;
 			fast = fast->next->next;
 		}
+		// 注意别忘了断开
 		pre->next = nullptr; // 断开 slow 的前一个节点和 slow 的连接
 		return slow;
 	}
 
 	// 21. 合并两个有序链表（双指针）
+	// 哨兵节点使得处理两个链表的合并变得更加统一，避免了多个空指针的检查。
 	ListNode* mergeTwoLists(ListNode* list1, ListNode* list2) {
-		ListNode dummy; // 用哨兵节点简化代码逻辑
+
+		// 堆上分配哨兵（这里的dummy就是结构体指针了）
+		//ListNode* dummy = new ListNode();
+		//ListNode* curr = dummy;
+
+		// 栈上分配哨兵
+		ListNode dummy; // 用哨兵节点简化代码逻辑（注意这个是个结构体）
 		ListNode* cur = &dummy; // cur 指向新链表的末尾
+
+		// 分别比较两个链表节点的值，小的摘出来连在哨兵后面，然后移动原链表指针
 		while (list1 && list2) {
 			if (list1->val < list2->val) {
 				cur->next = list1; // 把 list1 加到新链表中
@@ -111,8 +121,11 @@ class Solution {
 				cur->next = list2; // 把 list2 加到新链表中
 				list2 = list2->next;
 			}
+			// 别忘了连接完移动哨兵链表的尾巴节点指针
 			cur = cur->next;
 		}
+
+		// 处理链表不等长的情况，且链表本身有序
 		cur->next = list1 ? list1 : list2; // 拼接剩余链表
 		return dummy.next;
 	}

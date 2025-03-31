@@ -32,7 +32,7 @@ public:
             node1->next = node3;
             node2->next = node1;
 
-            // 基准节点步进
+            // 基准节点步进（直接步进两步相当于）
             temp = node1;
         }
 

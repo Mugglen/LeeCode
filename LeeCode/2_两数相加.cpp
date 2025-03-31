@@ -45,7 +45,13 @@ public:
 			if (l2) l2 = l2->next;
 		}
 		// 返回表头指针备份
-		return head->next;
+		//return head->next;
+
+			// 释放哨兵节点的内存
+		ListNode* result = head->next;
+		delete head;
+
+		return result;
 	}
 
 	void buildList(ListNode*& listHead1, ListNode*& listHead2 ) {

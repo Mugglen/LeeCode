@@ -27,7 +27,7 @@ public:
 
 		// 初始化双指针
 		ListNode* first = head;
-		ListNode* second = dummy;
+		ListNode* second = dummy; // 注意second等于dummy，这样first步进后，在最后second会指向倒数第n个节点的前一个
 
 		// 注意！！！for循环里就前两个要加分号，不要老是写成逗号
 		// 题目规定确认了n不会超过链表的长度
