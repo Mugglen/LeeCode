@@ -141,5 +141,17 @@
     <ClCompile Include="56_合并区间.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="3_无重复字符的最长子串.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="189_轮转数组.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="238_除自身以外数组的乘积.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="438_找到字符串中所有字母异位词.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
