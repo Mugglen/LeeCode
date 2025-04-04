@@ -24,11 +24,12 @@ public:
 
 };
 
-
+// https://leetcode.cn/problems/climbing-stairs/solutions/2560716/jiao-ni-yi-bu-bu-si-kao-dong-tai-gui-hua-7zm1
 class Solution {
 
 private:
 
+	// memo 数组的初始值一定不能等于要记忆化的值！
 	vector<int> memo;
 
 	// 注意到「先爬 1 个台阶，再爬 2 个台阶」和「先爬 2 个台阶，再爬 1 个台阶」，

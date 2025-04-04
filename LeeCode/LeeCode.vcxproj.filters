@@ -186,5 +186,11 @@
     <ClCompile Include="54_螺旋矩阵.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="118_杨辉三角.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="215_数组中第K个最大元素.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
