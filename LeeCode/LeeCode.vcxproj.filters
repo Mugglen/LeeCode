@@ -171,5 +171,20 @@
     <ClCompile Include="199_二叉树的右视图.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="114_二叉树展开为链表.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="394_字符串解码.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="70_爬楼梯.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="73_矩阵置零.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="54_螺旋矩阵.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

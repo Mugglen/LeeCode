@@ -55,9 +55,17 @@ int mergeSortAndCount(vector<int>& nums, int left, int right) {
     return count;
 }
 
+
+//#define DEBUG
+#ifdef DEBUG
+
 int main() {
     vector<int> nums = { 7, 5, 6, 4 };
     int result = mergeSortAndCount(nums, 0, nums.size() - 1);
     cout << "逆序对的数量: " << result << endl;
     return 0;
 }
+
+#endif // DEBUG
+
+

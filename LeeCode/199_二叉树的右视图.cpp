@@ -44,7 +44,7 @@ public:
 //写一道去洗澡了
 
 
-// 使用队列进行DFS
+// 使用队列进行BFS
 class Solution {
 
 public:
@@ -53,13 +53,13 @@ public:
 		vector<int> ans;
 
 		// 启动递归
-		dfs(root, ans);
+		bfs(root, ans);
 		return ans;
 
 	}
 
 private:
-	void dfs(TreeNode* root, vector<int>& ans) {
+	void bfs(TreeNode* root, vector<int>& ans) {
 
 		// 异常值处理
 		if (root == nullptr) return;

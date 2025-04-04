@@ -21,7 +21,7 @@ struct TreeNode
 class Solution_reference{
 
 private:
-	int inorderTraversal(TreeNode* node, int& k, int& ans) {
+	void inorderTraversal(TreeNode* node, int& k, int& ans) {
 	
 		// ±ﬂΩÁ¥¶¿Ì
 		if (node == nullptr)  return;
