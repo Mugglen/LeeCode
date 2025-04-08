@@ -126,7 +126,7 @@
     <ClCompile Include="148_排序链表.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="146_LRU缓存（没写）.cpp">
+    <ClCompile Include="146_LRU缓存.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="88_合并两个有序数组.cpp">
@@ -190,6 +190,12 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="215_数组中第K个最大元素.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="aliyun.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="437_路径总和.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

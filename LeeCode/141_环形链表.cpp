@@ -10,6 +10,9 @@ struct ListNode{
 
 };
 
+
+// 时间复杂度O(N)
+// 空间复杂度O(1)
 class Solution {
 public:
 	bool solution(ListNode* head) {
