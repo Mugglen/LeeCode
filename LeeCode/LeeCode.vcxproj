@@ -131,9 +131,11 @@
     <ClCompile Include="101_对称二叉树.cpp" />
     <ClCompile Include="102_二叉树的层次遍历.cpp" />
     <ClCompile Include="104_二叉树的最大深度.cpp" />
+    <ClCompile Include="105_从前序与中序遍历序列构造二叉树.cpp" />
     <ClCompile Include="108_将有序数组转换为二叉搜索树.cpp" />
     <ClCompile Include="114_二叉树展开为链表.cpp" />
     <ClCompile Include="118_杨辉三角.cpp" />
+    <ClCompile Include="11_盛最多水的容器.cpp" />
     <ClCompile Include="121_买卖股票的最佳时机.cpp" />
     <ClCompile Include="128_最长连续序列.cpp" />
     <ClCompile Include="138_随机链表的复制.cpp" />
@@ -169,6 +171,7 @@
     <ClCompile Include="394_字符串解码.cpp" />
     <ClCompile Include="39_组合综合.cpp" />
     <ClCompile Include="3_无重复字符的最长子串.cpp" />
+    <ClCompile Include="42_接雨水.cpp" />
     <ClCompile Include="437_路径总和.cpp" />
     <ClCompile Include="438_找到字符串中所有字母异位词.cpp" />
     <ClCompile Include="46_全排列.cpp" />

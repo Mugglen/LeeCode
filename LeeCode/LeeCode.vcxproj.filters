@@ -198,5 +198,14 @@
     <ClCompile Include="437_路径总和.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="42_接雨水.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="11_盛最多水的容器.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="105_从前序与中序遍历序列构造二叉树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
