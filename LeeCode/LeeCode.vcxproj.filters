@@ -192,9 +192,6 @@
     <ClCompile Include="215_数组中第K个最大元素.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="aliyun.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="437_路径总和.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
@@ -205,6 +202,18 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="105_从前序与中序遍历序列构造二叉树.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="200_岛屿数量.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="LCR 105_岛屿最大面积.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="463_岛屿周长.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="198_打家劫舍.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

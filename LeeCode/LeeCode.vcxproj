@@ -150,9 +150,11 @@
     <ClCompile Include="160_练习（双指针法）.cpp" />
     <ClCompile Include="17_电话号码的字母组合.cpp" />
     <ClCompile Include="189_轮转数组.cpp" />
+    <ClCompile Include="198_打家劫舍.cpp" />
     <ClCompile Include="199_二叉树的右视图.cpp" />
     <ClCompile Include="19_删除链表的倒数第n个节点.cpp" />
     <ClCompile Include="1_两数之和.cpp" />
+    <ClCompile Include="200_岛屿数量.cpp" />
     <ClCompile Include="206_反转列表.cpp" />
     <ClCompile Include="20_有效的括号.cpp" />
     <ClCompile Include="215_数组中第K个最大元素.cpp" />
@@ -174,6 +176,7 @@
     <ClCompile Include="42_接雨水.cpp" />
     <ClCompile Include="437_路径总和.cpp" />
     <ClCompile Include="438_找到字符串中所有字母异位词.cpp" />
+    <ClCompile Include="463_岛屿周长.cpp" />
     <ClCompile Include="46_全排列.cpp" />
     <ClCompile Include="49_字母异位词.cpp" />
     <ClCompile Include="53_最大子数组和.cpp" />
@@ -189,7 +192,7 @@
     <ClCompile Include="94_二叉树的中序遍历.cpp" />
     <ClCompile Include="94_二叉树的先序遍历.cpp" />
     <ClCompile Include="98_验证二叉搜索树.cpp" />
-    <ClCompile Include="aliyun.cpp" />
+    <ClCompile Include="LCR 105_岛屿最大面积.cpp" />
     <ClCompile Include="mySqlTest.cpp" />
     <ClCompile Include="手撕1.cpp" />
   </ItemGroup>
