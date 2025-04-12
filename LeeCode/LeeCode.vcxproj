@@ -165,6 +165,7 @@
     <ClCompile Include="236_二叉树的最近公共祖先.cpp" />
     <ClCompile Include="238_除自身以外数组的乘积.cpp" />
     <ClCompile Include="24_两两交换链表中的节点.cpp" />
+    <ClCompile Include="25_K个一组翻转链表.cpp" />
     <ClCompile Include="27_移除元素.cpp" />
     <ClCompile Include="283_移动零.cpp" />
     <ClCompile Include="2_两数相加.cpp" />
@@ -194,6 +195,7 @@
     <ClCompile Include="94_二叉树的先序遍历.cpp" />
     <ClCompile Include="98_验证二叉搜索树.cpp" />
     <ClCompile Include="LCR 105_岛屿最大面积.cpp" />
+    <ClCompile Include="LCR_90_打家劫舍2.cpp" />
     <ClCompile Include="mySqlTest.cpp" />
     <ClCompile Include="手撕1.cpp" />
   </ItemGroup>
