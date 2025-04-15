@@ -180,6 +180,7 @@
     <ClCompile Include="438_找到字符串中所有字母异位词.cpp" />
     <ClCompile Include="463_岛屿周长.cpp" />
     <ClCompile Include="46_全排列.cpp" />
+    <ClCompile Include="48_旋转图像.cpp" />
     <ClCompile Include="49_字母异位词.cpp" />
     <ClCompile Include="53_最大子数组和.cpp" />
     <ClCompile Include="543_二叉树的直径.cpp" />
@@ -189,15 +190,17 @@
     <ClCompile Include="704_二分查找.cpp" />
     <ClCompile Include="70_爬楼梯.cpp" />
     <ClCompile Include="73_矩阵置零.cpp" />
+    <ClCompile Include="743_网络延迟时间.cpp" />
     <ClCompile Include="74_搜索二维数组.cpp" />
     <ClCompile Include="88_合并两个有序数组.cpp" />
     <ClCompile Include="94_二叉树的中序遍历.cpp" />
     <ClCompile Include="94_二叉树的先序遍历.cpp" />
     <ClCompile Include="98_验证二叉搜索树.cpp" />
+    <ClCompile Include="al_1.cpp" />
     <ClCompile Include="LCR 105_岛屿最大面积.cpp" />
     <ClCompile Include="LCR_90_打家劫舍2.cpp" />
     <ClCompile Include="mySqlTest.cpp" />
-    <ClCompile Include="手撕1.cpp" />
+    <ClCompile Include="tx_1.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
