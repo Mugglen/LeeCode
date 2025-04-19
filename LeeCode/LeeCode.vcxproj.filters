@@ -234,5 +234,11 @@
     <ClCompile Include="48_旋转图像.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="78_子集.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="279_完全平方数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
