@@ -240,5 +240,8 @@
     <ClCompile Include="279_完全平方数.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="322_零钱兑换.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
