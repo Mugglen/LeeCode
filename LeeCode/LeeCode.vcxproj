@@ -170,6 +170,7 @@
     <ClCompile Include="27_移除元素.cpp" />
     <ClCompile Include="283_移动零.cpp" />
     <ClCompile Include="2_两数相加.cpp" />
+    <ClCompile Include="300_最长递增子序列.cpp" />
     <ClCompile Include="322_零钱兑换.cpp" />
     <ClCompile Include="33_搜索旋转排序数组.cpp" />
     <ClCompile Include="34_在排序数组中查找元素的第一个和最后一个位置.cpp" />
