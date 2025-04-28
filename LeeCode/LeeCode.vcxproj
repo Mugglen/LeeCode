@@ -200,11 +200,20 @@
     <ClCompile Include="94_二叉树的中序遍历.cpp" />
     <ClCompile Include="94_二叉树的先序遍历.cpp" />
     <ClCompile Include="98_验证二叉搜索树.cpp" />
+    <ClCompile Include="aly2-2.cpp" />
+    <ClCompile Include="aly2-3.cpp" />
+    <ClCompile Include="aly2.cpp" />
     <ClCompile Include="al_1.cpp" />
+    <ClCompile Include="hw0409_1_补丁版本升级_note.cpp" />
+    <ClCompile Include="hw0409_2_地铁耗时最短路_note.cpp" />
+    <ClCompile Include="hw0409_3_最小操作次数_note.cpp" />
     <ClCompile Include="LCR 105_岛屿最大面积.cpp" />
     <ClCompile Include="LCR_90_打家劫舍2.cpp" />
     <ClCompile Include="mySqlTest.cpp" />
     <ClCompile Include="tx_1.cpp" />
+    <ClCompile Include="hw0409_1_补丁版本升级.cpp" />
+    <ClCompile Include="hw0409_2_地铁耗时最短路.cpp" />
+    <ClCompile Include="hw0409_3_最小操作次数.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

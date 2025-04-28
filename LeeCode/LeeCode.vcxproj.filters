@@ -246,5 +246,32 @@
     <ClCompile Include="300_最长递增子序列.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="aly2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="aly2-2.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="aly2-3.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="hw0409_1_补丁版本升级.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="hw0409_2_地铁耗时最短路.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="hw0409_3_最小操作次数.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="hw0409_1_补丁版本升级_note.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="hw0409_2_地铁耗时最短路_note.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="hw0409_3_最小操作次数_note.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
