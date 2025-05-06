@@ -273,5 +273,8 @@
     <ClCompile Include="hw0409_3_最小操作次数_note.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="203_移除链表元素.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

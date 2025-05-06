@@ -155,6 +155,7 @@
     <ClCompile Include="19_删除链表的倒数第n个节点.cpp" />
     <ClCompile Include="1_两数之和.cpp" />
     <ClCompile Include="200_岛屿数量.cpp" />
+    <ClCompile Include="203_移除链表元素.cpp" />
     <ClCompile Include="206_反转列表.cpp" />
     <ClCompile Include="20_有效的括号.cpp" />
     <ClCompile Include="215_数组中第K个最大元素.cpp" />
