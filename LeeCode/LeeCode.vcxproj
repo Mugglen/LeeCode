@@ -137,6 +137,7 @@
     <ClCompile Include="118_杨辉三角.cpp" />
     <ClCompile Include="11_盛最多水的容器.cpp" />
     <ClCompile Include="121_买卖股票的最佳时机.cpp" />
+    <ClCompile Include="121_买卖股票的最佳时机（动规）.cpp" />
     <ClCompile Include="128_最长连续序列.cpp" />
     <ClCompile Include="138_随机链表的复制.cpp" />
     <ClCompile Include="141_环形链表.cpp" />
