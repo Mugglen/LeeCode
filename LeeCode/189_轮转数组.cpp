@@ -6,7 +6,8 @@
 using namespace std;
 
 // https://leetcode.cn/problems/rotate-array/solutions/2784427/tu-jie-yuan-di-zuo-fa-yi-tu-miao-dong-py-ryfv
-
+//#define DEBUG
+#ifdef DEBUG
 
 class Solution {
 public:
@@ -50,8 +51,7 @@ public:
 
 };
 
-//#define DEBUG
-#ifdef DEBUG
+
 int main() {
     Solution sol;
     vector<int> nums = { 1, 2, 3, 4, 5, 6, 7 };

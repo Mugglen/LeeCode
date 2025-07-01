@@ -279,5 +279,23 @@
     <ClCompile Include="121_买卖股票的最佳时机（动规）.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="704_二分查找_20250630.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="203_移除链表元素_20250630.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="242_有效的字母异位词_20250630.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="344_反转字符串_20250630.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="541_反转字符串Ⅱ_20250630.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="232_用栈实现队列_20250701.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

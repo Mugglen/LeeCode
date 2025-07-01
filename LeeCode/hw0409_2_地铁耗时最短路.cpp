@@ -7,6 +7,7 @@
 #include <sstream>
 using namespace std;
 
+#ifdef DEBUG
 struct Edge {
     string to;
     int time;
@@ -61,7 +62,8 @@ vector<string> reconstructPath(const unordered_map<string, string>& prev,
     return path;
 }
 
-int main2() {
+
+int main() {
     int N;
     string line;
 
@@ -108,3 +110,5 @@ int main2() {
 
     return 0;
 }
+#endif // DEBUG
+

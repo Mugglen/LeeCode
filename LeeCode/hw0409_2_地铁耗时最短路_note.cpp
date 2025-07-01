@@ -10,7 +10,7 @@ using namespace std;
 // 如果图中有 V 个节点和 E 条边
 // 时间复杂度：图构建，Dijkstra算法，路径重构，大头在Dijkstra，所以是O（（V+E）longV）
 // 空间复杂度：图的存储，优先级队列，大头在图的存储O（V+E）
-
+#ifdef DEBUG
 
 // 边的结构体，存储目标节点和经过该边所需的时间
 struct Edge {
@@ -80,7 +80,8 @@ vector<string> reconstructPath(const unordered_map<string, string>& prev,
     return path;
 }
 
-int main2() {
+
+int main() {
     int N;
     string line;
 
@@ -135,3 +136,6 @@ int main2() {
 
     return 0;
 }
+#endif // DEBUG
+
+

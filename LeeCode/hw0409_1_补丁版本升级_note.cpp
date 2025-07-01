@@ -10,7 +10,7 @@ using namespace std;
 // 空间复杂度：版本存储的复杂度O（V），递归栈复杂度O（V）
 
 
-
+#ifdef DEBUG
 // 深度优先搜索（DFS）函数，用于遍历版本依赖图，并记录每个版本的深度
 
 void dfs(const string& version, unordered_map<string, vector<string>>& graph,
@@ -24,7 +24,8 @@ void dfs(const string& version, unordered_map<string, vector<string>>& graph,
     }
 }
 
-int main1() {
+
+int main() {
     int N;
     cin >> N;  // 读取版本依赖关系的数量
     cin.ignore(); // 忽略第一行末尾的换行符
@@ -108,3 +109,6 @@ int main1() {
 
     return 0;
 }
+#endif // DEBUG
+
+

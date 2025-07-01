@@ -1,7 +1,7 @@
 #include <iostream>
 #include <vector>
 using namespace std;
-
+#ifdef DEBUG
 long long mergeAndCount(vector<int>& arr, vector<int>& temp, int left, int mid, int right) {
     int i = left, j = mid + 1, k = left;
     long long invCount = 0;
@@ -84,6 +84,7 @@ vector<int> getSpiralOrder(const vector<vector<int>>& matrix, int n) {
     return spiral;
 }
 
+
 int main() {
     int n;
     cin >> n;
@@ -109,3 +110,5 @@ int main() {
 
     return 0;
 }
+#endif // DEBUG
+

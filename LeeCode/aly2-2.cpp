@@ -116,6 +116,10 @@
 #include <unordered_map>
 using namespace std;
 
+//#define DEBUG
+#ifdef DEBUG
+
+
 int main() {
     int n;
     cin >> n;
@@ -142,3 +146,7 @@ int main() {
     cout << count << endl;
     return 0;
 }
+
+#endif // DEBUG
+
+

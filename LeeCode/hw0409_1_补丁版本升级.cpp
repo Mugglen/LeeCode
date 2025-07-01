@@ -4,7 +4,7 @@
 #include <unordered_map>
 #include <algorithm>
 using namespace std;
-
+#ifdef DEBUG
 void dfs(const string& version, unordered_map<string, vector<string>>& graph,
     unordered_map<string, int>& depth, int current_depth) {
     depth[version] = current_depth;
@@ -13,7 +13,8 @@ void dfs(const string& version, unordered_map<string, vector<string>>& graph,
     }
 }
 
-int main1() {
+
+int main() {
     int N;
     cin >> N;
     cin.ignore(); // 忽略第一行末尾的换行符
@@ -95,3 +96,6 @@ int main1() {
 
     return 0;
 }
+#endif // DEBUG
+
+
