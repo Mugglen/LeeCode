@@ -159,6 +159,7 @@
     <ClCompile Include="203_移除链表元素.cpp" />
     <ClCompile Include="203_移除链表元素_20250630.cpp" />
     <ClCompile Include="206_反转列表.cpp" />
+    <ClCompile Include="206_反转链表_20250701.cpp" />
     <ClCompile Include="20_有效的括号.cpp" />
     <ClCompile Include="215_数组中第K个最大元素.cpp" />
     <ClCompile Include="21_合并两个有序链表.cpp" />
@@ -170,7 +171,7 @@
     <ClCompile Include="238_除自身以外数组的乘积.cpp" />
     <ClCompile Include="242_有效的字母异位词_20250630.cpp" />
     <ClCompile Include="24_两两交换链表中的节点.cpp" />
-    <ClCompile Include="25_K个一组翻转链表.cpp" />
+    <ClCompile Include="25_K个一组翻转链表_20250701.cpp" />
     <ClCompile Include="279_完全平方数.cpp" />
     <ClCompile Include="27_移除元素.cpp" />
     <ClCompile Include="283_移动零.cpp" />
@@ -205,6 +206,7 @@
     <ClCompile Include="74_搜索二维数组.cpp" />
     <ClCompile Include="78_子集.cpp" />
     <ClCompile Include="88_合并两个有序数组.cpp" />
+    <ClCompile Include="92_反转链表Ⅱ_20250701.cpp" />
     <ClCompile Include="94_二叉树的中序遍历.cpp" />
     <ClCompile Include="94_二叉树的先序遍历.cpp" />
     <ClCompile Include="98_验证二叉搜索树.cpp" />

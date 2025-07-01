@@ -222,7 +222,7 @@
     <ClCompile Include="LCR_90_打家劫舍2.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="25_K个一组翻转链表.cpp">
+    <ClCompile Include="25_K个一组翻转链表_20250701.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="al_1.cpp">
@@ -295,6 +295,12 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="232_用栈实现队列_20250701.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="206_反转链表_20250701.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="92_反转链表Ⅱ_20250701.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
