@@ -9,7 +9,7 @@
  * };
  */
 // https://www.bilibili.com/video/BV1sd4y1x7KN/?vd_source=7863beabe20c537c924d81df79243393
-#define DEBUG
+//#define DEBUG
 #ifdef DEBUG
 
 struct ListNode {

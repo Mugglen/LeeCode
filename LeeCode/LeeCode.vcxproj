@@ -140,8 +140,12 @@
     <ClCompile Include="121_买卖股票的最佳时机（动规）.cpp" />
     <ClCompile Include="128_最长连续序列.cpp" />
     <ClCompile Include="138_随机链表的复制.cpp" />
+    <ClCompile Include="141_二叉树的前序遍历_20250702.cpp" />
+    <ClCompile Include="141_二叉树的前序遍历_迭代_20250702.cpp" />
     <ClCompile Include="141_环形链表.cpp" />
     <ClCompile Include="142_环形链表2.cpp" />
+    <ClCompile Include="145_二叉树的后序遍历_20250702.cpp" />
+    <ClCompile Include="145_二叉树的后序遍历_迭代_20250702.cpp" />
     <ClCompile Include="146_LRU缓存.cpp" />
     <ClCompile Include="148_排序链表.cpp" />
     <ClCompile Include="153_寻找旋转排序数组中的最小值.cpp" />
@@ -201,6 +205,7 @@
     <ClCompile Include="704_二分查找.cpp" />
     <ClCompile Include="704_二分查找_20250630.cpp" />
     <ClCompile Include="70_爬楼梯.cpp" />
+    <ClCompile Include="739_每日温度_20250702.cpp" />
     <ClCompile Include="73_矩阵置零.cpp" />
     <ClCompile Include="743_网络延迟时间.cpp" />
     <ClCompile Include="74_搜索二维数组.cpp" />
@@ -208,6 +213,8 @@
     <ClCompile Include="88_合并两个有序数组.cpp" />
     <ClCompile Include="92_反转链表Ⅱ_20250701.cpp" />
     <ClCompile Include="94_二叉树的中序遍历.cpp" />
+    <ClCompile Include="94_二叉树的中序遍历_20250702.cpp" />
+    <ClCompile Include="94_二叉树的中序遍历_迭代_20250702.cpp" />
     <ClCompile Include="94_二叉树的先序遍历.cpp" />
     <ClCompile Include="98_验证二叉搜索树.cpp" />
     <ClCompile Include="aly2-2.cpp" />

@@ -303,5 +303,26 @@
     <ClCompile Include="92_反转链表Ⅱ_20250701.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="141_二叉树的前序遍历_20250702.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="145_二叉树的后序遍历_20250702.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="94_二叉树的中序遍历_20250702.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="141_二叉树的前序遍历_迭代_20250702.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="94_二叉树的中序遍历_迭代_20250702.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="145_二叉树的后序遍历_迭代_20250702.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="739_每日温度_20250702.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
