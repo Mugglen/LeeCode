@@ -324,5 +324,17 @@
     <ClCompile Include="739_每日温度_20250702.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="27_移除元素_20250703.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="707_设计链表_20250703.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="240_搜索二维矩阵Ⅱ_20250703.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="347_前k个高频元素_20250703.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
