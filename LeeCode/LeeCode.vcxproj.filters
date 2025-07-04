@@ -336,5 +336,20 @@
     <ClCompile Include="347_前k个高频元素_20250703.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="876_链表的中间节点_20250704.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="234_回文链表_20250704.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="21_合并两个有序链表_20250704.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="23_合并k个升序链表_20250704.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="23_合并K个升序链表_最小堆_20250704.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
