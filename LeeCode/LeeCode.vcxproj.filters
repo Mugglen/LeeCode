@@ -351,5 +351,14 @@
     <ClCompile Include="23_合并K个升序链表_最小堆_20250704.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="977_有序数组的平方_20250705.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="349_两个数组的交集_20250705.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="239_滑动窗口最大值_20250705.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

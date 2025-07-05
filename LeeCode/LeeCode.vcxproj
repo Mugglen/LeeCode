@@ -176,6 +176,7 @@
     <ClCompile Include="234_回文链表_20250704.cpp" />
     <ClCompile Include="236_二叉树的最近公共祖先.cpp" />
     <ClCompile Include="238_除自身以外数组的乘积.cpp" />
+    <ClCompile Include="239_滑动窗口最大值_20250705.cpp" />
     <ClCompile Include="23_合并k个升序链表_20250704.cpp" />
     <ClCompile Include="23_合并K个升序链表_最小堆_20250704.cpp" />
     <ClCompile Include="240_搜索二维矩阵Ⅱ_20250703.cpp" />
@@ -192,6 +193,7 @@
     <ClCompile Include="33_搜索旋转排序数组.cpp" />
     <ClCompile Include="344_反转字符串_20250630.cpp" />
     <ClCompile Include="347_前k个高频元素_20250703.cpp" />
+    <ClCompile Include="349_两个数组的交集_20250705.cpp" />
     <ClCompile Include="34_在排序数组中查找元素的第一个和最后一个位置.cpp" />
     <ClCompile Include="35_搜索插入位置.cpp" />
     <ClCompile Include="394_字符串解码.cpp" />
@@ -226,6 +228,7 @@
     <ClCompile Include="94_二叉树的中序遍历_20250702.cpp" />
     <ClCompile Include="94_二叉树的中序遍历_迭代_20250702.cpp" />
     <ClCompile Include="94_二叉树的先序遍历.cpp" />
+    <ClCompile Include="977_有序数组的平方_20250705.cpp" />
     <ClCompile Include="98_验证二叉搜索树.cpp" />
     <ClCompile Include="aly2-2.cpp" />
     <ClCompile Include="aly2-3.cpp" />
