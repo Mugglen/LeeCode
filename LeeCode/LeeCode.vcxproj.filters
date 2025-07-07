@@ -360,5 +360,14 @@
     <ClCompile Include="239_滑动窗口最大值_20250705.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="994_腐烂的橘子_20250707.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="46_全排列_20250707.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="209_长度最小的子数组_20250707.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

@@ -165,6 +165,7 @@
     <ClCompile Include="203_移除链表元素_20250630.cpp" />
     <ClCompile Include="206_反转列表.cpp" />
     <ClCompile Include="206_反转链表_20250701.cpp" />
+    <ClCompile Include="209_长度最小的子数组_20250707.cpp" />
     <ClCompile Include="20_有效的括号.cpp" />
     <ClCompile Include="215_数组中第K个最大元素.cpp" />
     <ClCompile Include="21_合并两个有序链表.cpp" />
@@ -204,6 +205,7 @@
     <ClCompile Include="438_找到字符串中所有字母异位词.cpp" />
     <ClCompile Include="463_岛屿周长.cpp" />
     <ClCompile Include="46_全排列.cpp" />
+    <ClCompile Include="46_全排列_20250707.cpp" />
     <ClCompile Include="48_旋转图像.cpp" />
     <ClCompile Include="49_字母异位词.cpp" />
     <ClCompile Include="53_最大子数组和.cpp" />
@@ -230,6 +232,7 @@
     <ClCompile Include="94_二叉树的先序遍历.cpp" />
     <ClCompile Include="977_有序数组的平方_20250705.cpp" />
     <ClCompile Include="98_验证二叉搜索树.cpp" />
+    <ClCompile Include="994_腐烂的橘子_20250707.cpp" />
     <ClCompile Include="aly2-2.cpp" />
     <ClCompile Include="aly2-3.cpp" />
     <ClCompile Include="aly2.cpp" />
