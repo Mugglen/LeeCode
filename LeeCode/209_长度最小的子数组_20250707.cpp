@@ -34,7 +34,7 @@ public:
 #endif // DEBUG
 
 
-#define PRETICE
+//#define PRETICE
 #ifdef PRETICE
 
 class Solution {

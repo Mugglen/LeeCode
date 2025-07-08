@@ -105,7 +105,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <LanguageStandard>stdcpp17</LanguageStandard>
+      <LanguageStandard>stdcpp20</LanguageStandard>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -132,6 +132,7 @@
     <ClCompile Include="101_对称二叉树.cpp" />
     <ClCompile Include="102_二叉树的层次遍历.cpp" />
     <ClCompile Include="104_二叉树的最大深度.cpp" />
+    <ClCompile Include="104_二叉树的最大深度_20250708.cpp" />
     <ClCompile Include="105_从前序与中序遍历序列构造二叉树.cpp" />
     <ClCompile Include="108_将有序数组转换为二叉搜索树.cpp" />
     <ClCompile Include="114_二叉树展开为链表.cpp" />
@@ -140,6 +141,7 @@
     <ClCompile Include="121_买卖股票的最佳时机.cpp" />
     <ClCompile Include="121_买卖股票的最佳时机（动规）.cpp" />
     <ClCompile Include="128_最长连续序列.cpp" />
+    <ClCompile Include="131_分割回文串_20250708.cpp" />
     <ClCompile Include="138_随机链表的复制.cpp" />
     <ClCompile Include="141_二叉树的前序遍历_20250702.cpp" />
     <ClCompile Include="141_二叉树的前序遍历_迭代_20250702.cpp" />
@@ -155,6 +157,7 @@
     <ClCompile Include="160_相交链表.cpp" />
     <ClCompile Include="160_练习（双指针法）.cpp" />
     <ClCompile Include="17_电话号码的字母组合.cpp" />
+    <ClCompile Include="17_电话号码的字母组合_20250708.cpp" />
     <ClCompile Include="189_轮转数组.cpp" />
     <ClCompile Include="198_打家劫舍.cpp" />
     <ClCompile Include="199_二叉树的右视图.cpp" />
@@ -223,6 +226,7 @@
     <ClCompile Include="743_网络延迟时间.cpp" />
     <ClCompile Include="74_搜索二维数组.cpp" />
     <ClCompile Include="78_子集.cpp" />
+    <ClCompile Include="78_子集_20250708.cpp" />
     <ClCompile Include="876_链表的中间节点_20250704.cpp" />
     <ClCompile Include="88_合并两个有序数组.cpp" />
     <ClCompile Include="92_反转链表Ⅱ_20250701.cpp" />

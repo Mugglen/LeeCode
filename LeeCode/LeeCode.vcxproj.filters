@@ -369,5 +369,17 @@
     <ClCompile Include="209_长度最小的子数组_20250707.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="104_二叉树的最大深度_20250708.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="17_电话号码的字母组合_20250708.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="78_子集_20250708.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="131_分割回文串_20250708.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
