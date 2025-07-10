@@ -381,5 +381,23 @@
     <ClCompile Include="131_分割回文串_20250708.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="59_螺旋矩阵Ⅱ_20250709.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="19_删除链表的倒数第N个结点_20250709.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="202_快乐数_20250709.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="136_只出现一次的数_20250710.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="169_多数元素_20250710.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="207_课程表_20250710.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
