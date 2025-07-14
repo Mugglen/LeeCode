@@ -399,5 +399,14 @@
     <ClCompile Include="207_课程表_20250710.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="77_组合_20250711.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="22_括号生成_20250711.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="75_元素分类_20250711.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
