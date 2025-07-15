@@ -405,7 +405,28 @@
     <ClCompile Include="22_括号生成_20250711.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="75_元素分类_20250711.cpp">
+    <ClCompile Include="1.两数之和_20250714.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="124_二叉树中的最大路径和_20250715.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="142_环形链表Ⅱ_20250714.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="160_相交链表_20250714.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="543_二叉树的直径_20250714.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="75_颜色分类_20250714.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="208_实现Trie（前缀树）_20250715.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="454_四数相加Ⅱ_20250715.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
