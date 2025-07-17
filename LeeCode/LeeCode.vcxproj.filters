@@ -429,5 +429,23 @@
     <ClCompile Include="454_四数相加Ⅱ_20250715.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="4_寻找两个正序数组的中位数_20250716.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="34_在排序数组中查找元素的第一个和最后一个位置_20250716.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="31_下一个排列_20250716.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="76_最小覆盖子串_20250717.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="41_缺失的第一个正数_20250717.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="287_寻找重复数_20250718.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
