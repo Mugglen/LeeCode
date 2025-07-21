@@ -146,6 +146,8 @@
     <ClCompile Include="131_分割回文串_20250708.cpp" />
     <ClCompile Include="136_只出现一次的数_20250710.cpp" />
     <ClCompile Include="138_随机链表的复制.cpp" />
+    <ClCompile Include="139_单词拆分_20250721.cpp" />
+    <ClCompile Include="139_打家劫舍_20250721.cpp" />
     <ClCompile Include="141_二叉树的前序遍历_20250702.cpp" />
     <ClCompile Include="141_二叉树的前序遍历_迭代_20250702.cpp" />
     <ClCompile Include="141_环形链表.cpp" />
@@ -170,6 +172,7 @@
     <ClCompile Include="19_删除链表的倒数第N个结点_20250709.cpp" />
     <ClCompile Include="19_删除链表的倒数第n个节点.cpp" />
     <ClCompile Include="1_两数之和.cpp" />
+    <ClCompile Include="1_两数之和_20250721.cpp" />
     <ClCompile Include="200_岛屿数量.cpp" />
     <ClCompile Include="202_快乐数_20250709.cpp" />
     <ClCompile Include="203_移除链表元素.cpp" />
@@ -202,6 +205,7 @@
     <ClCompile Include="27_移除元素.cpp" />
     <ClCompile Include="27_移除元素_20250703.cpp" />
     <ClCompile Include="283_移动零.cpp" />
+    <ClCompile Include="283_移动零_20250721.cpp" />
     <ClCompile Include="287_寻找重复数_20250718.cpp" />
     <ClCompile Include="2_两数相加.cpp" />
     <ClCompile Include="300_最长递增子序列.cpp" />
@@ -227,6 +231,7 @@
     <ClCompile Include="46_全排列_20250707.cpp" />
     <ClCompile Include="48_旋转图像.cpp" />
     <ClCompile Include="49_字母异位词.cpp" />
+    <ClCompile Include="49_字母异位词分组_20250721.cpp" />
     <ClCompile Include="4_寻找两个正序数组的中位数_20250716.cpp" />
     <ClCompile Include="53_最大子数组和.cpp" />
     <ClCompile Include="541_反转字符串Ⅱ_20250630.cpp" />

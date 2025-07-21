@@ -447,5 +447,20 @@
     <ClCompile Include="287_寻找重复数_20250718.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="1_两数之和_20250721.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="49_字母异位词分组_20250721.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="283_移动零_20250721.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="139_单词拆分_20250721.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="139_打家劫舍_20250721.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

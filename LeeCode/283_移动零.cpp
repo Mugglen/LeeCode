@@ -19,6 +19,7 @@ public:
             // 在每次循环前打印调试信息
             debug(nums, left, right, "Before swap");
 
+			// 核心操作，交换非零元素到左边
             if (nums[right]) {
                 std::swap(nums[left], nums[right]);
                 left++;
