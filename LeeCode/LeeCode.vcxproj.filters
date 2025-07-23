@@ -456,10 +456,19 @@
     <ClCompile Include="283_移动零_20250721.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="139_单词拆分_20250721.cpp">
+    <ClCompile Include="139_打家劫舍_20250721.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="139_打家劫舍_20250721.cpp">
+    <ClCompile Include="139_单词拆分_20250722.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="128_最长连续序列_20250722.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="11_盛最多水的容器_20250722.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="152_乘积最大子数组_20250723.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
