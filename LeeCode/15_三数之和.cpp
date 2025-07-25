@@ -6,8 +6,7 @@
 // 对left和right的处理有点像2分法，对排序后的数组的三数和如果>0或者<0就对left和right做相应的处理
 // 接下来如何移动left 和right呢， 如果nums[i] + nums[left] + nums[right] > 0 
 // 就说明 此时三数之和大了，因为数组是排序后了，所以right下标就应该向左移动，这样才能让三数之和小一些。
-// 接下来如何移动left 和right呢， 如果nums[i] + nums[left] + nums[right] > 0 
-// 就说明 此时三数之和大了，因为数组是排序后了，所以right下标就应该向左移动，这样才能让三数之和小一些。
+
 
 
 class Solution {
@@ -48,7 +47,7 @@ public:
                     while (right > left && nums[right] == nums[right - 1]) right--;
                     while (right > left && nums[left] == nums[left + 1]) left++;
 
-                    // 找到答案时，双指针同时收缩
+                    // 找到答案时，双指针同时收缩(检查中间剩下的结果里还有没有别的答案)
                     right--;
                     left++;
                 }

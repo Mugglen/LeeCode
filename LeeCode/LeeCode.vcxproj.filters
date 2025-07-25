@@ -471,5 +471,17 @@
     <ClCompile Include="152_乘积最大子数组_20250723.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="编程实现一个单例模式_20250723.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="79_单词搜索_20250725.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="15_三数之和_20250725.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2_两数相加_20250725.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

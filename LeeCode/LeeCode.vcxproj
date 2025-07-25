@@ -163,6 +163,7 @@
     <ClCompile Include="153_寻找旋转排序数组中的最小值.cpp" />
     <ClCompile Include="155_最小栈.cpp" />
     <ClCompile Include="15_三数之和.cpp" />
+    <ClCompile Include="15_三数之和_20250725.cpp" />
     <ClCompile Include="160_相交链表.cpp" />
     <ClCompile Include="160_相交链表_20250714.cpp" />
     <ClCompile Include="160_练习（双指针法）.cpp" />
@@ -211,6 +212,7 @@
     <ClCompile Include="283_移动零_20250721.cpp" />
     <ClCompile Include="287_寻找重复数_20250718.cpp" />
     <ClCompile Include="2_两数相加.cpp" />
+    <ClCompile Include="2_两数相加_20250725.cpp" />
     <ClCompile Include="300_最长递增子序列.cpp" />
     <ClCompile Include="31_下一个排列_20250716.cpp" />
     <ClCompile Include="322_零钱兑换.cpp" />
@@ -257,6 +259,7 @@
     <ClCompile Include="77_组合_20250711.cpp" />
     <ClCompile Include="78_子集.cpp" />
     <ClCompile Include="78_子集_20250708.cpp" />
+    <ClCompile Include="79_单词搜索_20250725.cpp" />
     <ClCompile Include="876_链表的中间节点_20250704.cpp" />
     <ClCompile Include="88_合并两个有序数组.cpp" />
     <ClCompile Include="92_反转链表Ⅱ_20250701.cpp" />
@@ -281,6 +284,7 @@
     <ClCompile Include="hw0409_1_补丁版本升级.cpp" />
     <ClCompile Include="hw0409_2_地铁耗时最短路.cpp" />
     <ClCompile Include="hw0409_3_最小操作次数.cpp" />
+    <ClCompile Include="编程实现一个单例模式_20250723.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
