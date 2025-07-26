@@ -483,5 +483,14 @@
     <ClCompile Include="2_两数相加_20250725.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="55_跳跃游戏_20250726.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="45_跳跃游戏Ⅱ_20250726.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="24_两两交换链表中的节点_20250726.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

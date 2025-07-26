@@ -204,6 +204,7 @@
     <ClCompile Include="240_搜索二维矩阵Ⅱ_20250703.cpp" />
     <ClCompile Include="242_有效的字母异位词_20250630.cpp" />
     <ClCompile Include="24_两两交换链表中的节点.cpp" />
+    <ClCompile Include="24_两两交换链表中的节点_20250726.cpp" />
     <ClCompile Include="25_K个一组翻转链表_20250701.cpp" />
     <ClCompile Include="279_完全平方数.cpp" />
     <ClCompile Include="27_移除元素.cpp" />
@@ -231,6 +232,7 @@
     <ClCompile Include="437_路径总和.cpp" />
     <ClCompile Include="438_找到字符串中所有字母异位词.cpp" />
     <ClCompile Include="454_四数相加Ⅱ_20250715.cpp" />
+    <ClCompile Include="45_跳跃游戏Ⅱ_20250726.cpp" />
     <ClCompile Include="463_岛屿周长.cpp" />
     <ClCompile Include="46_全排列.cpp" />
     <ClCompile Include="46_全排列_20250707.cpp" />
@@ -243,6 +245,7 @@
     <ClCompile Include="543_二叉树的直径.cpp" />
     <ClCompile Include="543_二叉树的直径_20250714.cpp" />
     <ClCompile Include="54_螺旋矩阵.cpp" />
+    <ClCompile Include="55_跳跃游戏_20250726.cpp" />
     <ClCompile Include="560_和为K的子数组.cpp" />
     <ClCompile Include="56_合并区间.cpp" />
     <ClCompile Include="59_螺旋矩阵Ⅱ_20250709.cpp" />
