@@ -41,7 +41,7 @@ public:
 			headNew->next = copyRandomList(head->next);
 			headNew->random = copyRandomList(head->random);
 		}
-		// 返回哈希表值，如果是深拷贝过了就还是深拷贝的结果
+		// 返回哈希表值，如果是深拷贝过了就还是深拷贝的结果(这里包含返回了我们在if中创建的新节点)
 		return cacheNode[head];
 	}
 

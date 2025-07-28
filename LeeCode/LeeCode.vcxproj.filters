@@ -492,5 +492,17 @@
     <ClCompile Include="24_两两交换链表中的节点_20250726.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="763_划分字母区间_20250728.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="152_乘积最大子数组_20250728.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="287_寻找重读数_20250728.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="138_随机链表的复制_20250728.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
