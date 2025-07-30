@@ -105,7 +105,7 @@
       <SDLCheck>true</SDLCheck>
       <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
       <ConformanceMode>true</ConformanceMode>
-      <LanguageStandard>stdcpp20</LanguageStandard>
+      <LanguageStandard>stdcpp23</LanguageStandard>
     </ClCompile>
     <Link>
       <SubSystem>Console</SubSystem>
@@ -160,6 +160,7 @@
     <ClCompile Include="145_二叉树的后序遍历_迭代_20250702.cpp" />
     <ClCompile Include="146_LRU缓存.cpp" />
     <ClCompile Include="148_排序链表.cpp" />
+    <ClCompile Include="148_排序链表_20250730.cpp" />
     <ClCompile Include="152_乘积最大子数组_20250723.cpp" />
     <ClCompile Include="152_乘积最大子数组_20250728.cpp" />
     <ClCompile Include="153_寻找旋转排序数组中的最小值.cpp" />
@@ -214,7 +215,7 @@
     <ClCompile Include="283_移动零.cpp" />
     <ClCompile Include="283_移动零_20250721.cpp" />
     <ClCompile Include="287_寻找重复数_20250718.cpp" />
-    <ClCompile Include="287_寻找重读数_20250728.cpp" />
+    <ClCompile Include="287_寻找重复数_20250728.cpp" />
     <ClCompile Include="2_两数相加.cpp" />
     <ClCompile Include="2_两数相加_20250725.cpp" />
     <ClCompile Include="300_最长递增子序列.cpp" />
@@ -230,6 +231,8 @@
     <ClCompile Include="394_字符串解码.cpp" />
     <ClCompile Include="39_组合综合.cpp" />
     <ClCompile Include="3_无重复字符的最长子串.cpp" />
+    <ClCompile Include="416_分割等和子集_20250730.cpp" />
+    <ClCompile Include="494_目标和_20250729.cpp" />
     <ClCompile Include="41_缺失的第一个正数_20250717.cpp" />
     <ClCompile Include="42_接雨水.cpp" />
     <ClCompile Include="437_路径总和.cpp" />

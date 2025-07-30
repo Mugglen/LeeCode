@@ -498,10 +498,19 @@
     <ClCompile Include="152_乘积最大子数组_20250728.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="287_寻找重读数_20250728.cpp">
+    <ClCompile Include="287_寻找重复数_20250728.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="138_随机链表的复制_20250728.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="494_目标和_20250729.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="148_排序链表_20250730.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="416_分割等和子集_20250730.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
