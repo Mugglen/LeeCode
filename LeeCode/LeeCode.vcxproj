@@ -299,6 +299,10 @@
     <ClCompile Include="剑指offerNo12_数值的整数次方_20250802.cpp" />
     <ClCompile Include="剑指offerNo13_调整数组顺序使奇数位于偶数前面_20250802.cpp" />
     <ClCompile Include="剑指offerNo14_链表中倒数第K个节点_20250802.cpp" />
+    <ClCompile Include="剑指offerNo15_反转链表_20250804.cpp" />
+    <ClCompile Include="剑指offerNo16_合并两个有序链表_20250804.cpp" />
+    <ClCompile Include="剑指offerNo17_树的子结构_20250804.cpp" />
+    <ClCompile Include="剑指offerNo18_二叉树的镜像_20250804.cpp" />
     <ClCompile Include="剑指offerNo1_二维数组中的查找_20250731.cpp" />
     <ClCompile Include="剑指offerNo2_替换空格_20250731.cpp" />
     <ClCompile Include="剑指offerNo3_从尾到头打印链表_20250731.cpp" />
