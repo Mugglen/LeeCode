@@ -303,7 +303,11 @@
     <ClCompile Include="剑指offerNo16_合并两个有序链表_20250804.cpp" />
     <ClCompile Include="剑指offerNo17_树的子结构_20250804.cpp" />
     <ClCompile Include="剑指offerNo18_二叉树的镜像_20250804.cpp" />
+    <ClCompile Include="剑指offerNo19_顺时针打印矩阵_20250805.cpp" />
     <ClCompile Include="剑指offerNo1_二维数组中的查找_20250731.cpp" />
+    <ClCompile Include="剑指offerNo20_包含min函数的栈_20250805.cpp" />
+    <ClCompile Include="剑指offerNo21_栈的压入弹出序列_20250805.cpp" />
+    <ClCompile Include="剑指offerNo22_从上往下打印二叉树_20250805.cpp" />
     <ClCompile Include="剑指offerNo2_替换空格_20250731.cpp" />
     <ClCompile Include="剑指offerNo3_从尾到头打印链表_20250731.cpp" />
     <ClCompile Include="剑指offerNo4_重建二叉树_20250731.cpp" />

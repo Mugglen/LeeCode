@@ -567,5 +567,17 @@
     <ClCompile Include="剑指offerNo18_二叉树的镜像_20250804.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="剑指offerNo19_顺时针打印矩阵_20250805.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指offerNo20_包含min函数的栈_20250805.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指offerNo21_栈的压入弹出序列_20250805.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指offerNo22_从上往下打印二叉树_20250805.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
