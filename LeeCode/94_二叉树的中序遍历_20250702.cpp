@@ -33,7 +33,7 @@ public:
         // 异常处理
         if (cur == NULL)return;
 
-        // 后序遍历
+        // 中序遍历
 
         traversal(cur->left, res);
         res.push_back(cur->val);
