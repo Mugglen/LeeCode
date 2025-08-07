@@ -312,7 +312,11 @@
     <ClCompile Include="剑指offerNo24_二叉树中和为某一值的路径_20250806.cpp" />
     <ClCompile Include="剑指offerNo25_复杂链表的复制_20250806.cpp" />
     <ClCompile Include="剑指offerNo26_二叉搜索树与双向链表_20250806.cpp" />
+    <ClCompile Include="剑指offerNo27_字符串排列_20250807.cpp" />
+    <ClCompile Include="剑指offerNo28_数组中出现次数超过一半的数字_20250807.cpp" />
+    <ClCompile Include="剑指offerNo29_最小的K个数_20250807.cpp" />
     <ClCompile Include="剑指offerNo2_替换空格_20250731.cpp" />
+    <ClCompile Include="剑指offerNo30_连续子数组的最大和_20250807.cpp" />
     <ClCompile Include="剑指offerNo3_从尾到头打印链表_20250731.cpp" />
     <ClCompile Include="剑指offerNo4_重建二叉树_20250731.cpp" />
     <ClCompile Include="剑指offerNo5_用两个栈来实现一个队列_20250801.cpp" />
