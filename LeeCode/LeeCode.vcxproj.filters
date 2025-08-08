@@ -603,5 +603,20 @@
     <ClCompile Include="剑指offerNo28_数组中出现次数超过一半的数字_20250807.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="剑指offerNo31_整数中1出现的次数_20250808.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指offerNo32_把数组排成最小的数_20250808.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指offerNo33_丑数_20250808.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指offerNo34_第一个只出现一次的字符_20250808.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指offerNo35_数组中的逆排序_20250809.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
