@@ -618,5 +618,14 @@
     <ClCompile Include="剑指offerNo35_数组中的逆排序_20250809.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="剑指offerNo36_两个链表的第一个公共结点_20250809.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指offerNo37_统计一个数字在排序数组中出现的次数_20250809.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指offerNo38_二叉树的深度_20250809.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

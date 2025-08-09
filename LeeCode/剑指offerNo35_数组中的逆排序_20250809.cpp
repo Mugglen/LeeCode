@@ -47,6 +47,39 @@ public:
 		vector<int> copy(nums);// 辅助数组，每次递归后有序
         return recursion(nums, copy, 0, nums.size() - 1);
     }
+
+    int recursion(vector<int>& data, vector<int>& copy, int begin, int end) {
+		if (begin == end) return 0; // 只有一个元素,没有逆序对
+		int mid = begin + (end - begin) / 2; // 中间位置
+		// 分治，分别求左右部分的逆序对数量
+        // 为什么这里要交换data和copy？因为每次递归后，data是有序的，copy是无序的
+		// 同时这样可以避免每次都要显式交换数组
+        int left = recursion(copy, data, begin, mid); 
+		int right = recursion(copy, data, mid + 1, end);
+
+        // 再比较左右两半之间的逆序对
+		int end1 = mid; // 左边的末尾
+		int end2 = end; // 右边的末尾
+        int index_copy = end; // 比较结果存入辅助数组的尾端
+        long res = 0;
+
+        // 归并排序：相当于两个有序数组合并成一个有序表（从尾端开始是为了计数）
+        while (begin <= end1 && mid + 1 <= end2) {
+            // 左右两半，尾端大的依次存入辅助数组尾部
+            if (data[end1] > data[end2]) {
+                copy[index_copy--] = data[end1--];
+				res += end2 - mid; // 右边的元素比左边的元素小，说明右边的所有元素都比左边的这个元素小
+				res %= 1000000007; // 防止溢出
+            }
+            else {
+				copy[index_copy--] = data[end2--];
+            }
+        }
+		while (begin <= end1) copy[index_copy--] = data[end1--]; // 左边的元素全部存入辅助数组
+		while (mid + 1 <= end2) copy[index_copy--] = data[end2--]; // 右边的元素全部存入辅助数组
+		return (left + right + res) % 1000000007; // 返回结果
+    }
+
 };
 
 #endif // DEBUG2

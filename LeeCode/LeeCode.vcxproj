@@ -322,6 +322,9 @@
     <ClCompile Include="剑指offerNo33_丑数_20250808.cpp" />
     <ClCompile Include="剑指offerNo34_第一个只出现一次的字符_20250808.cpp" />
     <ClCompile Include="剑指offerNo35_数组中的逆排序_20250809.cpp" />
+    <ClCompile Include="剑指offerNo36_两个链表的第一个公共结点_20250809.cpp" />
+    <ClCompile Include="剑指offerNo37_统计一个数字在排序数组中出现的次数_20250809.cpp" />
+    <ClCompile Include="剑指offerNo38_二叉树的深度_20250809.cpp" />
     <ClCompile Include="剑指offerNo3_从尾到头打印链表_20250731.cpp" />
     <ClCompile Include="剑指offerNo4_重建二叉树_20250731.cpp" />
     <ClCompile Include="剑指offerNo5_用两个栈来实现一个队列_20250801.cpp" />
