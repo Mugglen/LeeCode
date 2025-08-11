@@ -325,13 +325,17 @@
     <ClCompile Include="剑指offerNo36_两个链表的第一个公共结点_20250809.cpp" />
     <ClCompile Include="剑指offerNo37_统计一个数字在排序数组中出现的次数_20250809.cpp" />
     <ClCompile Include="剑指offerNo38_二叉树的深度_20250809.cpp" />
+    <ClCompile Include="剑指offerNo39_平衡二叉树_20250811.cpp" />
     <ClCompile Include="剑指offerNo3_从尾到头打印链表_20250731.cpp" />
+    <ClCompile Include="剑指offerNo41_和为S的连续正数序列_20250811.cpp" />
+    <ClCompile Include="剑指offerNo42_和为S的两个数字_20250811.cpp" />
     <ClCompile Include="剑指offerNo4_重建二叉树_20250731.cpp" />
     <ClCompile Include="剑指offerNo5_用两个栈来实现一个队列_20250801.cpp" />
     <ClCompile Include="剑指offerNo6_旋转数组_20250801.cpp" />
     <ClCompile Include="剑指offerNo7_斐波那契数列_20250801.cpp" />
     <ClCompile Include="剑指offerNo8_跳台阶_20250801.cpp" />
     <ClCompile Include="剑指offerNo9_跳台阶扩展_20250802.cpp" />
+    <ClCompile Include="剑指offerNo40_数组中只出现一次的数字_20250811.cpp" />
     <ClCompile Include="编程实现一个单例模式_20250723.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

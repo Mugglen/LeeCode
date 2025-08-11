@@ -627,5 +627,17 @@
     <ClCompile Include="剑指offerNo38_二叉树的深度_20250809.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="剑指offerNo39_平衡二叉树_20250811.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指offerNo41_和为S的连续正数序列_20250811.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指offerNo40_数组中只出现一次的数字_20250811.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指offerNo42_和为S的两个数字_20250811.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
