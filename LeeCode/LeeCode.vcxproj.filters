@@ -639,5 +639,29 @@
     <ClCompile Include="剑指offerNo42_和为S的两个数字_20250811.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="剑指offerNo43_左旋转字符串_20250812.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指offerNo44_翻转单词序列_20250812.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指offerNo45_扑克牌顺子_20250812.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指offerNo46_孩子们的游戏_20250812.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指offerNo47_求1+2+3+...+N_20250812.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指offerNo48_求两个数相加_20250812.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指offerNo49_字符串转化为整数_20250812.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指offerNo50_数组中重复的数字_20250812.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
