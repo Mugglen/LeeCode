@@ -338,6 +338,11 @@
     <ClCompile Include="剑指offerNo49_字符串转化为整数_20250812.cpp" />
     <ClCompile Include="剑指offerNo4_重建二叉树_20250731.cpp" />
     <ClCompile Include="剑指offerNo50_数组中重复的数字_20250812.cpp" />
+    <ClCompile Include="剑指offerNo51_构建乘积数组_20250813.cpp" />
+    <ClCompile Include="剑指offerNo52_正则表达式匹配_20250813.cpp" />
+    <ClCompile Include="剑指offerNo53_表示数值的字符串_20250813.cpp" />
+    <ClCompile Include="剑指offerNo54_字符流中第一个不重复的字符_20250813.cpp" />
+    <ClCompile Include="剑指offerNo55_环形链表的入口节点_20250813.cpp" />
     <ClCompile Include="剑指offerNo5_用两个栈来实现一个队列_20250801.cpp" />
     <ClCompile Include="剑指offerNo6_旋转数组_20250801.cpp" />
     <ClCompile Include="剑指offerNo7_斐波那契数列_20250801.cpp" />

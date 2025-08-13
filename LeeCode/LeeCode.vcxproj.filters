@@ -663,5 +663,20 @@
     <ClCompile Include="剑指offerNo50_数组中重复的数字_20250812.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="剑指offerNo51_构建乘积数组_20250813.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指offerNo52_正则表达式匹配_20250813.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指offerNo53_表示数值的字符串_20250813.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指offerNo54_字符流中第一个不重复的字符_20250813.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指offerNo55_环形链表的入口节点_20250813.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
