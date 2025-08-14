@@ -678,5 +678,17 @@
     <ClCompile Include="剑指offerNo55_环形链表的入口节点_20250813.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="剑指offerNo56_删除链表中的重复结点_20250814.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指offerNo57_二叉树的下一个结点_20250814.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指offerNo58_对称二叉树_20250814.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指offerNo59_按之字形打印二叉树_20250814.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
