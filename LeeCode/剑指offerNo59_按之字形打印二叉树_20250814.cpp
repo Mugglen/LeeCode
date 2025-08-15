@@ -110,7 +110,7 @@ public:
 				if (node->right) evenStack.push(node->right);
 				oddStack.pop();
 			}
-			// 存一次结果
+			// 存一次结果（注意tmp可能为空）
 			if (!tmp.empty()) {
 				ans.push_back(tmp);
 				tmp.clear();
@@ -126,7 +126,7 @@ public:
 				if (node->left) oddStack.push(node->left);
 				evenStack.pop();
 			}
-			// 存一次结果
+			// 存一次结果（注意tmp可能为空）
 			if (!tmp.empty()) {
 				ans.push_back(tmp);
 				tmp.clear();

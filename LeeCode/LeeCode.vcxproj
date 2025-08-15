@@ -348,6 +348,11 @@
     <ClCompile Include="剑指offerNo58_对称二叉树_20250814.cpp" />
     <ClCompile Include="剑指offerNo59_按之字形打印二叉树_20250814.cpp" />
     <ClCompile Include="剑指offerNo5_用两个栈来实现一个队列_20250801.cpp" />
+    <ClCompile Include="剑指offerNo60_把二叉树打印成多行_20250814.cpp" />
+    <ClCompile Include="剑指offerNo61_序列化二叉树_20250814.cpp" />
+    <ClCompile Include="剑指offerNo62_二叉搜索树的第k大的节点_20250814.cpp" />
+    <ClCompile Include="剑指offerNo64_滑动窗口的最大值_20250815.cpp" />
+    <ClCompile Include="剑指offerNo65_矩阵中的路径_20250815.cpp" />
     <ClCompile Include="剑指offerNo6_旋转数组_20250801.cpp" />
     <ClCompile Include="剑指offerNo7_斐波那契数列_20250801.cpp" />
     <ClCompile Include="剑指offerNo8_跳台阶_20250801.cpp" />

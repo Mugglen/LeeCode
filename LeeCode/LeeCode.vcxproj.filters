@@ -690,5 +690,20 @@
     <ClCompile Include="剑指offerNo59_按之字形打印二叉树_20250814.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="剑指offerNo60_把二叉树打印成多行_20250814.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指offerNo61_序列化二叉树_20250814.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指offerNo62_二叉搜索树的第k大的节点_20250814.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指offerNo64_滑动窗口的最大值_20250815.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指offerNo65_矩阵中的路径_20250815.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
