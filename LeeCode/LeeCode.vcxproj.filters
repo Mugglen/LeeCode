@@ -705,5 +705,14 @@
     <ClCompile Include="剑指offerNo65_矩阵中的路径_20250815.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="剑指offerNo66_机器人的运动范围_20250818.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指offerNo67_剪绳子_20250818.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="82_删除排序链表中的重复元素Ⅱ_20250818.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

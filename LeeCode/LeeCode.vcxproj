@@ -270,6 +270,7 @@
     <ClCompile Include="78_子集.cpp" />
     <ClCompile Include="78_子集_20250708.cpp" />
     <ClCompile Include="79_单词搜索_20250725.cpp" />
+    <ClCompile Include="82_删除排序链表中的重复元素Ⅱ_20250818.cpp" />
     <ClCompile Include="876_链表的中间节点_20250704.cpp" />
     <ClCompile Include="88_合并两个有序数组.cpp" />
     <ClCompile Include="92_反转链表Ⅱ_20250701.cpp" />
@@ -353,6 +354,8 @@
     <ClCompile Include="剑指offerNo62_二叉搜索树的第k大的节点_20250814.cpp" />
     <ClCompile Include="剑指offerNo64_滑动窗口的最大值_20250815.cpp" />
     <ClCompile Include="剑指offerNo65_矩阵中的路径_20250815.cpp" />
+    <ClCompile Include="剑指offerNo66_机器人的运动范围_20250818.cpp" />
+    <ClCompile Include="剑指offerNo67_剪绳子_20250818.cpp" />
     <ClCompile Include="剑指offerNo6_旋转数组_20250801.cpp" />
     <ClCompile Include="剑指offerNo7_斐波那契数列_20250801.cpp" />
     <ClCompile Include="剑指offerNo8_跳台阶_20250801.cpp" />
