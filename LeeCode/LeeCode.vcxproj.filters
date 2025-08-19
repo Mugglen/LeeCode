@@ -591,5 +591,128 @@
     <ClCompile Include="剑指offerNo26_二叉搜索树与双向链表_20250806.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="剑指offerNo27_字符串排列_20250807.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指offerNo29_最小的K个数_20250807.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指offerNo30_连续子数组的最大和_20250807.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指offerNo28_数组中出现次数超过一半的数字_20250807.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指offerNo31_整数中1出现的次数_20250808.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指offerNo32_把数组排成最小的数_20250808.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指offerNo33_丑数_20250808.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指offerNo34_第一个只出现一次的字符_20250808.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指offerNo35_数组中的逆排序_20250809.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指offerNo36_两个链表的第一个公共结点_20250809.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指offerNo37_统计一个数字在排序数组中出现的次数_20250809.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指offerNo38_二叉树的深度_20250809.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指offerNo39_平衡二叉树_20250811.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指offerNo41_和为S的连续正数序列_20250811.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指offerNo40_数组中只出现一次的数字_20250811.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指offerNo42_和为S的两个数字_20250811.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指offerNo43_左旋转字符串_20250812.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指offerNo44_翻转单词序列_20250812.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指offerNo45_扑克牌顺子_20250812.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指offerNo46_孩子们的游戏_20250812.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指offerNo47_求1+2+3+...+N_20250812.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指offerNo48_求两个数相加_20250812.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指offerNo49_字符串转化为整数_20250812.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指offerNo50_数组中重复的数字_20250812.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指offerNo51_构建乘积数组_20250813.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指offerNo52_正则表达式匹配_20250813.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指offerNo53_表示数值的字符串_20250813.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指offerNo54_字符流中第一个不重复的字符_20250813.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指offerNo55_环形链表的入口节点_20250813.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指offerNo56_删除链表中的重复结点_20250814.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指offerNo57_二叉树的下一个结点_20250814.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指offerNo58_对称二叉树_20250814.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指offerNo59_按之字形打印二叉树_20250814.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指offerNo60_把二叉树打印成多行_20250814.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指offerNo61_序列化二叉树_20250814.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指offerNo62_二叉搜索树的第k大的节点_20250814.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指offerNo64_滑动窗口的最大值_20250815.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指offerNo65_矩阵中的路径_20250815.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指offerNo66_机器人的运动范围_20250818.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="剑指offerNo67_剪绳子_20250818.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="82_删除排序链表中的重复元素Ⅱ_20250818.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
