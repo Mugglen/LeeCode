@@ -255,6 +255,7 @@
     <ClCompile Include="560_和为K的子数组.cpp" />
     <ClCompile Include="56_合并区间.cpp" />
     <ClCompile Include="59_螺旋矩阵Ⅱ_20250709.cpp" />
+    <ClCompile Include="61_旋转链表_20250819.cpp" />
     <ClCompile Include="704_二分查找.cpp" />
     <ClCompile Include="704_二分查找_20250630.cpp" />
     <ClCompile Include="707_设计链表_20250703.cpp" />

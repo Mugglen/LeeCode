@@ -714,5 +714,8 @@
     <ClCompile Include="82_删除排序链表中的重复元素Ⅱ_20250818.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="61_旋转链表_20250819.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
