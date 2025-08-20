@@ -209,6 +209,7 @@
     <ClCompile Include="24_两两交换链表中的节点.cpp" />
     <ClCompile Include="24_两两交换链表中的节点_20250726.cpp" />
     <ClCompile Include="25_K个一组翻转链表_20250701.cpp" />
+    <ClCompile Include="26_删除有序数组中的重复项_20250820.cpp" />
     <ClCompile Include="279_完全平方数.cpp" />
     <ClCompile Include="27_移除元素.cpp" />
     <ClCompile Include="27_移除元素_20250703.cpp" />
@@ -228,6 +229,7 @@
     <ClCompile Include="34_在排序数组中查找元素的第一个和最后一个位置.cpp" />
     <ClCompile Include="34_在排序数组中查找元素的第一个和最后一个位置_20250716.cpp" />
     <ClCompile Include="35_搜索插入位置.cpp" />
+    <ClCompile Include="383_赎金信_20250820.cpp" />
     <ClCompile Include="394_字符串解码.cpp" />
     <ClCompile Include="39_组合综合.cpp" />
     <ClCompile Include="3_无重复字符的最长子串.cpp" />
@@ -271,7 +273,9 @@
     <ClCompile Include="78_子集.cpp" />
     <ClCompile Include="78_子集_20250708.cpp" />
     <ClCompile Include="79_单词搜索_20250725.cpp" />
+    <ClCompile Include="80_删除有序数组中的重复项Ⅱ_20250820.cpp" />
     <ClCompile Include="82_删除排序链表中的重复元素Ⅱ_20250818.cpp" />
+    <ClCompile Include="86_分隔链表_20250820.cpp" />
     <ClCompile Include="876_链表的中间节点_20250704.cpp" />
     <ClCompile Include="88_合并两个有序数组.cpp" />
     <ClCompile Include="92_反转链表Ⅱ_20250701.cpp" />
