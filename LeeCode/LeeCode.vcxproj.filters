@@ -729,5 +729,14 @@
     <ClCompile Include="383_赎金信_20250820.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="100_相同的树_20250821.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="106_从中序与后序遍历序列构造二叉树_20250821.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="122_买卖股票的最佳时机Ⅱ_20250821.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
