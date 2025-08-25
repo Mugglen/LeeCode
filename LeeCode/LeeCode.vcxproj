@@ -143,6 +143,7 @@
     <ClCompile Include="121_买卖股票的最佳时机.cpp" />
     <ClCompile Include="121_买卖股票的最佳时机（动规）.cpp" />
     <ClCompile Include="124_二叉树中的最大路径和_20250715.cpp" />
+    <ClCompile Include="125_验证回文串_20250825.cpp" />
     <ClCompile Include="128_最长连续序列.cpp" />
     <ClCompile Include="128_最长连续序列_20250722.cpp" />
     <ClCompile Include="131_分割回文串_20250708.cpp" />
@@ -154,6 +155,7 @@
     <ClCompile Include="141_二叉树的前序遍历_20250702.cpp" />
     <ClCompile Include="141_二叉树的前序遍历_迭代_20250702.cpp" />
     <ClCompile Include="141_环形链表.cpp" />
+    <ClCompile Include="141_环形链表_20250825.cpp" />
     <ClCompile Include="142_环形链表2.cpp" />
     <ClCompile Include="142_环形链表Ⅱ_20250714.cpp" />
     <ClCompile Include="145_二叉树的后序遍历_20250702.cpp" />
@@ -184,6 +186,7 @@
     <ClCompile Include="202_快乐数_20250709.cpp" />
     <ClCompile Include="203_移除链表元素.cpp" />
     <ClCompile Include="203_移除链表元素_20250630.cpp" />
+    <ClCompile Include="205_同构字符串_20250825.cpp" />
     <ClCompile Include="206_反转列表.cpp" />
     <ClCompile Include="206_反转链表_20250701.cpp" />
     <ClCompile Include="207_课程表_20250710.cpp" />
@@ -209,6 +212,7 @@
     <ClCompile Include="24_两两交换链表中的节点.cpp" />
     <ClCompile Include="24_两两交换链表中的节点_20250726.cpp" />
     <ClCompile Include="25_K个一组翻转链表_20250701.cpp" />
+    <ClCompile Include="274_H指数_20250825.cpp" />
     <ClCompile Include="279_完全平方数.cpp" />
     <ClCompile Include="27_移除元素.cpp" />
     <ClCompile Include="27_移除元素_20250703.cpp" />
@@ -218,6 +222,7 @@
     <ClCompile Include="287_寻找重复数_20250728.cpp" />
     <ClCompile Include="2_两数相加.cpp" />
     <ClCompile Include="2_两数相加_20250725.cpp" />
+    <ClCompile Include="2_两数相加_20250825.cpp" />
     <ClCompile Include="300_最长递增子序列.cpp" />
     <ClCompile Include="31_下一个排列_20250716.cpp" />
     <ClCompile Include="322_零钱兑换.cpp" />
