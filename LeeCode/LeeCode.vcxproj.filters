@@ -597,37 +597,7 @@
     <ClCompile Include="剑指offerNo29_最小的K个数_20250807.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="剑指offerNo30_连续子数组的最大和_20250807.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
     <ClCompile Include="剑指offerNo28_数组中出现次数超过一半的数字_20250807.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="剑指offerNo31_整数中1出现的次数_20250808.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="剑指offerNo32_把数组排成最小的数_20250808.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="剑指offerNo33_丑数_20250808.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="剑指offerNo34_第一个只出现一次的字符_20250808.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="剑指offerNo35_数组中的逆排序_20250809.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="剑指offerNo36_两个链表的第一个公共结点_20250809.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="剑指offerNo37_统计一个数字在排序数组中出现的次数_20250809.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="剑指offerNo38_二叉树的深度_20250809.cpp">
-      <Filter>源文件</Filter>
-    </ClCompile>
-    <ClCompile Include="剑指offerNo39_平衡二叉树_20250811.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="剑指offerNo41_和为S的连续正数序列_20250811.cpp">
@@ -714,6 +684,7 @@
     <ClCompile Include="82_删除排序链表中的重复元素Ⅱ_20250818.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+<<<<<<< HEAD
     <ClCompile Include="61_旋转链表_20250819.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
@@ -736,6 +707,21 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="122_买卖股票的最佳时机Ⅱ_20250821.cpp">
+=======
+    <ClCompile Include="274_H指数_20250825.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="125_验证回文串_20250825.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="141_环形链表_20250825.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="2_两数相加_20250825.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="205_同构字符串_20250825.cpp">
+>>>>>>> 040686b24eb5b0e796180ae7fd07b5320c66398e
       <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>

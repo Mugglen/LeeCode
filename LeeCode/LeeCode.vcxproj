@@ -146,6 +146,7 @@
     <ClCompile Include="121_买卖股票的最佳时机（动规）.cpp" />
     <ClCompile Include="122_买卖股票的最佳时机Ⅱ_20250821.cpp" />
     <ClCompile Include="124_二叉树中的最大路径和_20250715.cpp" />
+    <ClCompile Include="125_验证回文串_20250825.cpp" />
     <ClCompile Include="128_最长连续序列.cpp" />
     <ClCompile Include="128_最长连续序列_20250722.cpp" />
     <ClCompile Include="131_分割回文串_20250708.cpp" />
@@ -157,6 +158,7 @@
     <ClCompile Include="141_二叉树的前序遍历_20250702.cpp" />
     <ClCompile Include="141_二叉树的前序遍历_迭代_20250702.cpp" />
     <ClCompile Include="141_环形链表.cpp" />
+    <ClCompile Include="141_环形链表_20250825.cpp" />
     <ClCompile Include="142_环形链表2.cpp" />
     <ClCompile Include="142_环形链表Ⅱ_20250714.cpp" />
     <ClCompile Include="145_二叉树的后序遍历_20250702.cpp" />
@@ -187,6 +189,7 @@
     <ClCompile Include="202_快乐数_20250709.cpp" />
     <ClCompile Include="203_移除链表元素.cpp" />
     <ClCompile Include="203_移除链表元素_20250630.cpp" />
+    <ClCompile Include="205_同构字符串_20250825.cpp" />
     <ClCompile Include="206_反转列表.cpp" />
     <ClCompile Include="206_反转链表_20250701.cpp" />
     <ClCompile Include="207_课程表_20250710.cpp" />
@@ -212,7 +215,11 @@
     <ClCompile Include="24_两两交换链表中的节点.cpp" />
     <ClCompile Include="24_两两交换链表中的节点_20250726.cpp" />
     <ClCompile Include="25_K个一组翻转链表_20250701.cpp" />
+<<<<<<< HEAD
     <ClCompile Include="26_删除有序数组中的重复项_20250820.cpp" />
+=======
+    <ClCompile Include="274_H指数_20250825.cpp" />
+>>>>>>> 040686b24eb5b0e796180ae7fd07b5320c66398e
     <ClCompile Include="279_完全平方数.cpp" />
     <ClCompile Include="27_移除元素.cpp" />
     <ClCompile Include="27_移除元素_20250703.cpp" />
@@ -222,6 +229,7 @@
     <ClCompile Include="287_寻找重复数_20250728.cpp" />
     <ClCompile Include="2_两数相加.cpp" />
     <ClCompile Include="2_两数相加_20250725.cpp" />
+    <ClCompile Include="2_两数相加_20250825.cpp" />
     <ClCompile Include="300_最长递增子序列.cpp" />
     <ClCompile Include="31_下一个排列_20250716.cpp" />
     <ClCompile Include="322_零钱兑换.cpp" />
@@ -325,16 +333,6 @@
     <ClCompile Include="剑指offerNo28_数组中出现次数超过一半的数字_20250807.cpp" />
     <ClCompile Include="剑指offerNo29_最小的K个数_20250807.cpp" />
     <ClCompile Include="剑指offerNo2_替换空格_20250731.cpp" />
-    <ClCompile Include="剑指offerNo30_连续子数组的最大和_20250807.cpp" />
-    <ClCompile Include="剑指offerNo31_整数中1出现的次数_20250808.cpp" />
-    <ClCompile Include="剑指offerNo32_把数组排成最小的数_20250808.cpp" />
-    <ClCompile Include="剑指offerNo33_丑数_20250808.cpp" />
-    <ClCompile Include="剑指offerNo34_第一个只出现一次的字符_20250808.cpp" />
-    <ClCompile Include="剑指offerNo35_数组中的逆排序_20250809.cpp" />
-    <ClCompile Include="剑指offerNo36_两个链表的第一个公共结点_20250809.cpp" />
-    <ClCompile Include="剑指offerNo37_统计一个数字在排序数组中出现的次数_20250809.cpp" />
-    <ClCompile Include="剑指offerNo38_二叉树的深度_20250809.cpp" />
-    <ClCompile Include="剑指offerNo39_平衡二叉树_20250811.cpp" />
     <ClCompile Include="剑指offerNo3_从尾到头打印链表_20250731.cpp" />
     <ClCompile Include="剑指offerNo41_和为S的连续正数序列_20250811.cpp" />
     <ClCompile Include="剑指offerNo42_和为S的两个数字_20250811.cpp" />
