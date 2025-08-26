@@ -39,7 +39,7 @@ public:
 };
 
 
-#endif // DEBUG2
+#endif // DEBUG1
 
 //#define DEBUG2
 #ifdef DEBUG2

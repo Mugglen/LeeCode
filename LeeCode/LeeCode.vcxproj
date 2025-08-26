@@ -137,6 +137,8 @@
     <ClCompile Include="105_从前序与中序遍历序列构造二叉树.cpp" />
     <ClCompile Include="108_将有序数组转换为二叉搜索树.cpp" />
     <ClCompile Include="114_二叉树展开为链表.cpp" />
+    <ClCompile Include="116_填充每个节点的下一个右侧节点指针_20250826.cpp" />
+    <ClCompile Include="117_填充每个节点的下一个右侧节点指针Ⅱ_20250826.cpp" />
     <ClCompile Include="118_杨辉三角.cpp" />
     <ClCompile Include="11_盛最多水的容器.cpp" />
     <ClCompile Include="11_盛最多水的容器_20250722.cpp" />
@@ -147,6 +149,7 @@
     <ClCompile Include="128_最长连续序列.cpp" />
     <ClCompile Include="128_最长连续序列_20250722.cpp" />
     <ClCompile Include="131_分割回文串_20250708.cpp" />
+    <ClCompile Include="134_加油站_20250826.cpp" />
     <ClCompile Include="136_只出现一次的数_20250710.cpp" />
     <ClCompile Include="138_随机链表的复制.cpp" />
     <ClCompile Include="138_随机链表的复制_20250728.cpp" />
@@ -196,6 +199,7 @@
     <ClCompile Include="215_数组中第K个最大元素.cpp" />
     <ClCompile Include="21_合并两个有序链表.cpp" />
     <ClCompile Include="21_合并两个有序链表_20250704.cpp" />
+    <ClCompile Include="21_合并两个有序链表_2025826.cpp" />
     <ClCompile Include="226_翻转二叉树.cpp" />
     <ClCompile Include="22_括号生成_20250711.cpp" />
     <ClCompile Include="230_二叉搜索树中第K小的元素.cpp" />
@@ -233,6 +237,8 @@
     <ClCompile Include="34_在排序数组中查找元素的第一个和最后一个位置.cpp" />
     <ClCompile Include="34_在排序数组中查找元素的第一个和最后一个位置_20250716.cpp" />
     <ClCompile Include="35_搜索插入位置.cpp" />
+    <ClCompile Include="380_O1时间插入、删除和获取随机元素_20250826.cpp" />
+    <ClCompile Include="392_判断子序列_20250826.cpp" />
     <ClCompile Include="394_字符串解码.cpp" />
     <ClCompile Include="39_组合综合.cpp" />
     <ClCompile Include="3_无重复字符的最长子串.cpp" />

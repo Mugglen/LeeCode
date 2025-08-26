@@ -699,5 +699,23 @@
     <ClCompile Include="205_同构字符串_20250825.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="380_O1时间插入、删除和获取随机元素_20250826.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="134_加油站_20250826.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="392_判断子序列_20250826.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="21_合并两个有序链表_2025826.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="117_填充每个节点的下一个右侧节点指针Ⅱ_20250826.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="116_填充每个节点的下一个右侧节点指针_20250826.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
