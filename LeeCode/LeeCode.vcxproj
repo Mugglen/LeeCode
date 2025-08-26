@@ -130,11 +130,13 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="1.两数之和_20250714.cpp" />
+    <ClCompile Include="100_相同的树_20250821.cpp" />
     <ClCompile Include="101_对称二叉树.cpp" />
     <ClCompile Include="102_二叉树的层次遍历.cpp" />
     <ClCompile Include="104_二叉树的最大深度.cpp" />
     <ClCompile Include="104_二叉树的最大深度_20250708.cpp" />
     <ClCompile Include="105_从前序与中序遍历序列构造二叉树.cpp" />
+    <ClCompile Include="106_从中序与后序遍历序列构造二叉树_20250821.cpp" />
     <ClCompile Include="108_将有序数组转换为二叉搜索树.cpp" />
     <ClCompile Include="114_二叉树展开为链表.cpp" />
     <ClCompile Include="116_填充每个节点的下一个右侧节点指针_20250826.cpp" />
@@ -144,6 +146,7 @@
     <ClCompile Include="11_盛最多水的容器_20250722.cpp" />
     <ClCompile Include="121_买卖股票的最佳时机.cpp" />
     <ClCompile Include="121_买卖股票的最佳时机（动规）.cpp" />
+    <ClCompile Include="122_买卖股票的最佳时机Ⅱ_20250821.cpp" />
     <ClCompile Include="124_二叉树中的最大路径和_20250715.cpp" />
     <ClCompile Include="125_验证回文串_20250825.cpp" />
     <ClCompile Include="128_最长连续序列.cpp" />
@@ -216,7 +219,11 @@
     <ClCompile Include="24_两两交换链表中的节点.cpp" />
     <ClCompile Include="24_两两交换链表中的节点_20250726.cpp" />
     <ClCompile Include="25_K个一组翻转链表_20250701.cpp" />
+<<<<<<< HEAD
+    <ClCompile Include="26_删除有序数组中的重复项_20250820.cpp" />
+=======
     <ClCompile Include="274_H指数_20250825.cpp" />
+>>>>>>> 040686b24eb5b0e796180ae7fd07b5320c66398e
     <ClCompile Include="279_完全平方数.cpp" />
     <ClCompile Include="27_移除元素.cpp" />
     <ClCompile Include="27_移除元素_20250703.cpp" />
@@ -237,6 +244,7 @@
     <ClCompile Include="34_在排序数组中查找元素的第一个和最后一个位置.cpp" />
     <ClCompile Include="34_在排序数组中查找元素的第一个和最后一个位置_20250716.cpp" />
     <ClCompile Include="35_搜索插入位置.cpp" />
+    <ClCompile Include="383_赎金信_20250820.cpp" />
     <ClCompile Include="380_O1时间插入、删除和获取随机元素_20250826.cpp" />
     <ClCompile Include="392_判断子序列_20250826.cpp" />
     <ClCompile Include="394_字符串解码.cpp" />
@@ -266,6 +274,7 @@
     <ClCompile Include="560_和为K的子数组.cpp" />
     <ClCompile Include="56_合并区间.cpp" />
     <ClCompile Include="59_螺旋矩阵Ⅱ_20250709.cpp" />
+    <ClCompile Include="61_旋转链表_20250819.cpp" />
     <ClCompile Include="704_二分查找.cpp" />
     <ClCompile Include="704_二分查找_20250630.cpp" />
     <ClCompile Include="707_设计链表_20250703.cpp" />
@@ -281,7 +290,9 @@
     <ClCompile Include="78_子集.cpp" />
     <ClCompile Include="78_子集_20250708.cpp" />
     <ClCompile Include="79_单词搜索_20250725.cpp" />
+    <ClCompile Include="80_删除有序数组中的重复项Ⅱ_20250820.cpp" />
     <ClCompile Include="82_删除排序链表中的重复元素Ⅱ_20250818.cpp" />
+    <ClCompile Include="86_分隔链表_20250820.cpp" />
     <ClCompile Include="876_链表的中间节点_20250704.cpp" />
     <ClCompile Include="88_合并两个有序数组.cpp" />
     <ClCompile Include="92_反转链表Ⅱ_20250701.cpp" />

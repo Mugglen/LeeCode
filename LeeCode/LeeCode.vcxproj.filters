@@ -684,6 +684,30 @@
     <ClCompile Include="82_删除排序链表中的重复元素Ⅱ_20250818.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+<<<<<<< HEAD
+    <ClCompile Include="61_旋转链表_20250819.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="86_分隔链表_20250820.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="26_删除有序数组中的重复项_20250820.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="80_删除有序数组中的重复项Ⅱ_20250820.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="383_赎金信_20250820.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="100_相同的树_20250821.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="106_从中序与后序遍历序列构造二叉树_20250821.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="122_买卖股票的最佳时机Ⅱ_20250821.cpp">
+=======
     <ClCompile Include="274_H指数_20250825.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
@@ -697,6 +721,7 @@
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="205_同构字符串_20250825.cpp">
+>>>>>>> 040686b24eb5b0e796180ae7fd07b5320c66398e
       <Filter>源文件</Filter>
     </ClCompile>
     <ClCompile Include="380_O1时间插入、删除和获取随机元素_20250826.cpp">
